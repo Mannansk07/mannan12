@@ -1,2 +1,2 @@
-# mannan12
-i was develop
+# MULTIPLE DISEASE PREDICTION
+
